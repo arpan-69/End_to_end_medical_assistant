@@ -1,0 +1,67 @@
+{
+    "greetings": {
+        "hi": "👋 Hello! I'm your medical assistant. How can I help you today?",
+        "hello": "👋 Hi there! What health concern do you have?",
+        "hey": "👋 Hey! Feel free to ask any medical question.",
+        "good morning": "🌞 Good morning! How can I assist with your health today?",
+        "good afternoon": "🌤️ Good afternoon! Let me know how I can help.",
+        "good evening": "🌙 Good evening! What medical concerns do you have?"
+    },
+
+    "gratitude": {
+        "thank you": "You're welcome! 😊 Stay healthy and take care.",
+        "thanks": "Anytime! 🙌 Let me know if you need anything else.",
+        "appreciate it": "Happy to help! 💪 Reach out whenever you need advice."
+    },
+
+    "common_issues": {
+        "cold": {
+            "answer": "🤒 Common Cold Care\n\n✅ What to do:\n• Stay hydrated with warm fluids (tea, broth)\n• Use saline nasal spray for congestion relief\n• Rest and get plenty of sleep to help recovery\n\n🚨 See a doctor if:\n• Fever stays above 100.4°F (38°C) for more than 3 days\n• Trouble breathing, wheezing, or chest tightness\n• Symptoms worsen after a week instead of improving",
+            "sources": ["CDC", "Mayo Clinic"]
+        },
+        "flu": {
+            "answer": "🤧 Flu (Influenza) Care\n\n✅ What to do:\n• Rest and drink lots of fluids\n• Take acetaminophen (Tylenol) or ibuprofen for fever\n• If severe, antiviral medication (Tamiflu) may help\n\n🚨 Go to the ER if:\n• You have difficulty breathing or chest pain\n• Your lips or face turn bluish\n• Severe dizziness or confusion occurs",
+            "sources": ["WHO", "CDC"]
+        },
+        "burn": {
+            "answer": "🔥 Burn First Aid\n\n✅ How to treat:\n1. Cool with room-temperature water for 20 minutes (do not use ice)\n2. Apply antibiotic ointment (like silver sulfadiazine)\n3. Cover with a clean, non-stick bandage\n\n🚨 See a doctor if:\n• Burn is larger than your palm\n• Skin turns white, leathery, or has no feeling\n• It covers the face, hands, or genitals",
+            "sources": ["American Burn Association"]
+        },
+        "cut": {
+            "answer": "🩹 Wound Care\n\n✅ Steps to follow:\n1. Clean the wound with sterile saline or clean water\n2. Apply direct pressure for 10 minutes if bleeding\n3. Cover with a sterile bandage and apply antibiotic ointment\n\n🚨 Stitches needed if:\n• Cut is deeper than 0.5 cm (¼ inch) or longer than 2 cm (¾ inch)\n• Edges won’t stay together or bleeding won’t stop\n• It's on a joint and keeps reopening",
+            "sources": ["Red Cross First Aid Manual"]
+        },
+        "sprain": {
+            "answer": "🦵 Sprain Treatment (R.I.C.E. Method)\n\n✅ What to do:\n• 🛑 Rest – Avoid using the injured limb for 48 hours\n• ❄️ Ice – Apply a cold pack for 20 minutes every 2 hours\n• 🩹 Compression – Wrap with an elastic bandage to reduce swelling\n• 🛏️ Elevation – Keep your limb raised above heart level\n\n🚨 Seek medical attention if:\n• You can’t put weight on the joint at all\n• There is numbness, tingling, or severe swelling",
+            "sources": ["AAOS Guidelines"]
+        },
+        "rash": {
+            "answer": "🔴 Skin Rash Care\n\n✅ How to treat:\n• Apply 1% hydrocortisone cream twice daily\n• Use fragrance-free moisturizers to prevent irritation\n• Cool compresses help relieve itching\n\n🚨 See a doctor if:\n• The rash is spreading quickly or comes with fever\n• There are blisters, pus, or severe pain",
+            "sources": ["American Academy of Dermatology"]
+        },
+        "diarrhea": {
+            "answer": "💦 Diarrhea Management\n\n✅ What to do:\n• Drink an oral rehydration solution (1L water + 6 tsp sugar + 1 tsp salt)\n• Eat the BRAT diet: Bananas, Rice, Applesauce, Toast\n• Take probiotics or zinc supplements (20 mg/day)\n\n🚨 Seek medical care if:\n• You see blood in your stool\n• You have severe dehydration (sunken eyes, dry mouth, no urination)\n• Diarrhea lasts more than 3 days",
+            "sources": ["WHO"]
+        },
+
+        "allergy": {
+            "answer": "🤧 Allergy Relief\n\n✅ How to manage:\n• Take antihistamines like loratadine (Claritin) or cetirizine (Zyrtec)\n• Use a saline nasal rinse for congestion\n• Avoid allergens (dust, pollen, pet dander)\n\n🚨 Emergency signs (call 911):\n• Swelling of the throat or trouble breathing\n• Hives all over the body with dizziness\n• Severe stomach cramps or vomiting",
+            "sources": ["AAAAI (American Academy of Allergy, Asthma, and Immunology)"]
+        },
+        "stomach pain": {
+            "answer": "🤢 Stomach Pain Causes & Treatment\n\n✅ Common causes & what to do:\n• Gas or indigestion → Sip warm ginger tea, avoid spicy foods\n• Food poisoning → Drink water, avoid solid foods for a few hours\n• Acid reflux → Take antacids (Tums, Pepto-Bismol), avoid caffeine\n\n🚨 Seek urgent care if:\n• Severe pain in lower right side (appendicitis risk)\n• Vomiting blood or black stool\n• Pain lasts more than 24 hours or worsens",
+            "sources": ["Mayo Clinic"]
+        }
+    },
+
+    "farewells": {
+        "bye": "Take care! ❤️ Remember to consult a doctor if symptoms persist.",
+        "goodbye": "Stay healthy! 🌟 Come back anytime for medical advice.",
+        "see you": "👋 Take care! Reach out anytime you need help."
+    },
+
+    "disclaimers": {
+        "general": "⚠️ Important: I provide general advice, but I’m not a doctor. If symptoms persist or feel serious, please consult a healthcare professional!",
+        "emergency": "🚨 EMERGENCY: Call emergency services or go to the nearest hospital immediately!"
+    }
+}
