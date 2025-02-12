@@ -1,5 +1,0 @@
-ctransformers
-sentence-transformers
-langchain
-pypdf
-python-dotenv
