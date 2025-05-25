@@ -1,8 +1,4 @@
-
----
-
-```markdown
-# Medical Chat Assistant
+# Medical Healthcare Assistant
 
 The Medical Chat Assistant is a Streamlit-based AI chatbot designed to provide reliable and supportive responses to medical queries. It uses Retrieval-Augmented Generation (RAG) with LangChain, HuggingFace Transformers, and ChromaDB to deliver answers based on embedded medical documents.
 
@@ -33,8 +29,8 @@ The Medical Chat Assistant is a Streamlit-based AI chatbot designed to provide r
 
 ## Project Structure
 
-```
 
+```
 .
 ├── medical\_chat\_assistant.py       # Main Streamlit app
 ├── medical\_books/                  # Directory containing medical PDFs
@@ -42,8 +38,8 @@ The Medical Chat Assistant is a Streamlit-based AI chatbot designed to provide r
 ├── predefined\_responses.json       # Predefined responses for FAQs and chat
 ├── .streamlit/
 │   └── secrets.toml                # API secrets (excluded from version control)
+```
 
-````
 
 ---
 
@@ -54,7 +50,7 @@ The Medical Chat Assistant is a Streamlit-based AI chatbot designed to provide r
 ```bash
 git clone https://github.com/your-username/medical-chat-assistant.git
 cd medical-chat-assistant
-````
+```
 
 ### 2. Install dependencies
 
